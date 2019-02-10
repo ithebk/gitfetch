@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GitFetcho</string>
+    <string name="enter_organisation_name">Organisation name</string>
+    <string name="enter_repo_name">Repo name</string>
+</resources>
